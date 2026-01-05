@@ -5,10 +5,6 @@ import { getBuildingById, findNearestRisers, getBuildings, findRisersOnFloor } f
 import BottomNav from '../components/ui/BottomNav';
 import BackButton from '../components/ui/BackButton';
 import Button from '../components/ui/Button';
-
-import FloorSelector from "../components/building/FloorSelector";
-import NearestRiserDisplay from "../components/building/NearestRiserDisplay";
-
 import FloorSelector from "../components/building/FloorSelector";
 import NearestRiserDisplay from "../components/building/NearestRiserDisplay";
 
